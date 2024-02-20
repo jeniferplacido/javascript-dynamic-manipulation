@@ -32,11 +32,3 @@ A manipulação do DOM é fundamental para a criação de páginas da web intera
 
 ------
 
-### Acessando Elementos do DOM:
-
-[Por Id]()
-
-[Por Classe]()
-
-[Por Tag]()
-
